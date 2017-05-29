@@ -13,7 +13,7 @@ class Book
         w
       end
     end
-@title = array_title.join(' ')
+    @title = array_title.join(' ')
 
   end
 
